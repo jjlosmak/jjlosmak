@@ -26,7 +26,7 @@ I'm always looking for challenges that make me evolve as a professional and as a
 
 You can find me here:
 
-- [LinkedIn]((https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))_
+- [LinkedIn](https://www.linkedin.com) _([](https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))_
 
 - 📧 send me an e-mail: jeronimosilva0301@gmail.com
 
