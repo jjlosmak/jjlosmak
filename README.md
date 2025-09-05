@@ -46,7 +46,7 @@
 Sou desenvolvedor <b>front-end</b> (e um pouco de back-end). Amo explorar novas tecnologias e sou apaixonado por <b>IA 🤖</b>.<br/><br/>
 💼 <b>Work</b>: 👷‍♂️ em desenvolvimento<br/>
 💡 <b>About me</b>: 🎯 apaixonado por tecnologia · 💻 curioso sobre IA · 📚 sempre aprendendo · 🚀 em evolução constante<br/>
-📫 <b>Let's connect?</b> LinkedIn ([adicione seu link](https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) · <a href="mailto:jeronimosilva0301@gmail.com">jeronimosilva0301@gmail.com</a>
+📫 <b>Let's connect?</b> LinkedIn (https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) · <a href="mailto:jeronimosilva0301@gmail.com">jeronimosilva0301@gmail.com</a>
 </p>
 
 ###
