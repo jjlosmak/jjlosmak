@@ -52,4 +52,5 @@ Sou desenvolvedor <b>front-end</b> (e um pouco de back-end). Amo explorar novas 
 ###
 
 <!-- Snake (requer action configurada) -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jjlosmak/jjlosmak/output/snake.svg" alt="Snake animation" />
+
