@@ -9,6 +9,7 @@
 
 ###
 
+
 <img align="right" height="150" src="https://raw.githubusercontent.com/jjlosmak/jjlosmak/main/assets/gon.gif" alt="Gon Freecss gif" />
 
 ###
@@ -32,7 +33,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+</a>
   <a href="mailto:jeronimosilva0301@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" /></a>
 </div>
 
