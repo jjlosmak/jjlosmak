@@ -1,59 +1,45 @@
-<h2 align="left">Hi 👋! My name is Jerônimo and I'm a front-end developer (with a foot in back-end), from Brazil.</h2>
+<h2>Oi, eu sou o Jerônimo 👋</h2>
 
-###
+**Automação de processos · IA aplicada · Implantação de sistemas**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjlosmak&show_icons=true&disable_animations=false&theme=dracula&hide_border=false&cache_seconds=21600" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjlosmak&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=21600" height="150" alt="languages graph" />
-</div>
+Sou a ponte entre a ferramenta e quem usa: entendo o processo, encontro o gargalo e construo a solução — com Pipefy, Google Apps Script, Python e agentes de IA. Hoje faço isso na **Editora e no Núcleo de Inovação Tecnológica da Unichristus** (Fortaleza, CE), onde automatizo fluxos acadêmicos e editoriais de ponta a ponta.
 
-###
+<a href="https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
+<a href="mailto:jeronimosilva0301@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="E-mail" /></a>
 
+---
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/jjlosmak/jjlosmak/main/assets/gon.gif" alt="Gon Freecss gif" />
+### ⚙️ O que eu faço
 
-###
+- **Automação de fluxos** — administro pipes no Pipefy com e-mails automáticos e integrações via Apps Script (com cuidado de LGPD).
+- **Sistemas internos sem complicação** — transformo planilhas espalhadas em sistemas web com Google Apps Script + Google Sheets.
+- **IA aplicada ao trabalho real** — crio agentes e skills que conferem documentos, preenchem formulários e redigem comunicações.
+- **Geração de documentos** — scripts em Python que produzem PDFs padronizados a partir de dados.
+- **Implantação e suporte** — experiência implantando sistemas PDV/MFE e treinando quem vai usar.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
+### 🧰 Ferramentas
 
-###
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+<img src="https://img.shields.io/badge/Pipefy-1C1F5C?style=flat-square&logoColor=white" alt="Pipefy" />
+<img src="https://img.shields.io/badge/Claude%20%2F%20IA-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / IA" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-</a>
-  <a href="mailto:jeronimosilva0301@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" /></a>
-</div>
+📚 **Estudando agora:** n8n · SQL · Power BI
 
-###
+### 🚀 Projetos em destaque
 
-<br clear="both">
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [**PDF Extractor**](https://github.com/jjlosmak/Extractor_MAC) | App com interface gráfica que extrai texto de PDFs em lote. O build para macOS roda sozinho pelo GitHub Actions — quem recebe não precisa instalar Python. | Python · GitHub Actions |
+| [**Site do NIT Unichristus**](https://github.com/jjlosmak/Unichristus-NIT) | Site do Núcleo de Inovação Tecnológica da Unichristus. | HTML · CSS · JavaScript |
 
-<!-- Sobre mim -->
-<p>
-👋 Hi, I'm Jerônimo!<br/>
-Sou desenvolvedor <b>front-end</b> (e um pouco de back-end). Amo explorar novas tecnologias e sou apaixonado por <b>IA 🤖</b>.<br/><br/>
-💼 <b>Work</b>: 👷‍♂️ Universidade Unichristus<br/>
-💡 <b>About me</b>: 🎯 apaixonado por tecnologia · 💻 curioso sobre IA · 📚 sempre aprendendo · 🚀 em evolução constante<br/>
-📫 <b>Let's connect?</b> LinkedIn (https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) · <a href="mailto:jeronimosilva0301@gmail.com">jeronimosilva0301@gmail.com</a>
-</p>
+🔜 **Chegando em breve** (versões com dados fictícios): gerador de folha de rosto e ficha catalográfica · sistema web de carga horária docente · automação do fluxo EduCAPES no Pipefy · agentes de IA para fluxo editorial.
 
-###
+---
 
-<!-- Snake (requer action configurada) -->
-<img src="https://raw.githubusercontent.com/jjlosmak/jjlosmak/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/jjlosmak/jjlosmak/output/snake.svg" alt="Animação da cobrinha comendo as contribuições" />
