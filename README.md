@@ -35,10 +35,13 @@ Sou a ponte entre a ferramenta e quem usa: entendo o processo, encontro o gargal
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
+| [**Integração Pipefy + Apps Script**](https://github.com/jjlosmak/integracao-pipefy-apps-script) | Identifica o aluno pelo CPF e preenche o card sozinho antes do e-mail sair, sem expor dados no formulário público (LGPD). Com testes automáticos. | Apps Script · API GraphQL · Pipefy |
+| [**Sistema de Carga Horária Docente**](https://github.com/jjlosmak/sistema-carga-horaria) | Troca várias planilhas Excel por um app web: painel, lançamento semanal e ficha individual imprimível. [Demo ao vivo](https://jjlosmak.github.io/sistema-carga-horaria/). | Apps Script · Google Sheets · JavaScript |
+| [**Gerador de Folha de Rosto**](https://github.com/jjlosmak/gerador-folha-de-rosto) | Gera folha de rosto e verso com moldura da ficha catalográfica a partir de um JSON, no padrão exigido para o ISBN. | Python · ReportLab · GitHub Actions |
 | [**PDF Extractor**](https://github.com/jjlosmak/Extractor_MAC) | App com interface gráfica que extrai texto de PDFs em lote. O build para macOS roda sozinho pelo GitHub Actions — quem recebe não precisa instalar Python. | Python · GitHub Actions |
 | [**Site do NIT Unichristus**](https://github.com/jjlosmak/Unichristus-NIT) | Site do Núcleo de Inovação Tecnológica da Unichristus. | HTML · CSS · JavaScript |
 
-🔜 **Chegando em breve** (versões com dados fictícios): gerador de folha de rosto e ficha catalográfica · sistema web de carga horária docente · automação do fluxo EduCAPES no Pipefy · agentes de IA para fluxo editorial.
+🔜 **Chegando em breve:** agentes de IA para fluxo editorial.
 
 ---
 
