@@ -2,7 +2,7 @@
 
 **Automação de processos · IA aplicada · Implantação de sistemas**
 
-Sou a ponte entre a ferramenta e quem usa: entendo o processo, encontro o gargalo e construo a solução — com Pipefy, Google Apps Script, Python e agentes de IA. Hoje faço isso na **Editora e no Núcleo de Inovação Tecnológica da Unichristus** (Fortaleza, CE), onde automatizo fluxos acadêmicos e editoriais de ponta a ponta.
+Sou a ponte entre a ferramenta e quem usa: entendo o processo, encontro o gargalo e construo a solução — com Pipefy, Google Apps Script, Python e agentes de IA. Hoje faço isso na **Editora e no Núcleo de Inovação Tecnológica da Unichristus** (Fortaleza, CE), onde automatizo fluxos acadêmicos e editoriais de ponta a ponta e já trabalhei em mais de 100 livros e obras.
 
 <a href="https://jjlosmak.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/jer%C3%B4nimo-silva-6a496a219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
